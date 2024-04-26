@@ -73,6 +73,16 @@ font-style: normal;
         margin-right: 76px
 }
 
+.nav-contacs:hover,
+.nav-contacs:focus {
+    color: #404BBF;
+}
+
+.nav-contacs-item:hover,
+.nav-contacs-item:focus {
+    color: #404BBF;
+}
+
 .nav-list {
 display: flex;
 align-items: center;
@@ -472,16 +482,6 @@ padding-bottom: 100px;
     margin-right: 120px;
 }
 
-.nav-contacs-item:hover,
-.nav-contacs-item:focus {
-    color: #404BBF;
-}
-
-.nav-contacs:hover,
-.nav-contacs:focus {
-    color: #404BBF;
-}                          
-
 .icon-list-footer{
     gap: 16px;
     display: flex;
@@ -537,6 +537,7 @@ padding-bottom: 100px;
     margin-bottom: 16px;
 }
 
-.social-icons {
-
+.footer-link:hover,
+.footer-link:focus {
+    background-color: #31d0aa;
 }
