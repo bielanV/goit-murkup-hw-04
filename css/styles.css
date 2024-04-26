@@ -468,13 +468,13 @@ padding-top: 100px;
 padding-bottom: 100px;
 }
 
-.container-all {
+/* .container-all {
         width: 1158px;
             padding: 0 15px 0 15px;
             margin: 0 auto;
             display: flex;
             align-items: baseline;
-}
+} */
 
 .nav-contacs-item:hover,
 .nav-contacs-item:focus {
